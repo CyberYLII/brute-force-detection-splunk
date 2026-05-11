@@ -22,9 +22,13 @@ index=main sourcetype="csv" "failed password"
 # Visualizations
 The Splunk dashboards included:
 	•	Bar chart: Failed login attempts by source IP
-	•	Filtered list: IPs with repeated suspicious activity (≥5 attempts)
-	•	Event table: Login attempts with timestamps and status
-	•	Line chart: Attack frequency over time
+	<img width="1920" height="1080" alt="Screenshot (16)" src="https://github.com/user-attachments/assets/00580eb9-ae84-4cbb-89c9-7b4cac545a98" />
+    •	Filtered list: IPs with repeated suspicious activity (≥5 attempts)
+	<img width="1920" height="1080" alt="Screenshot (15)" src="https://github.com/user-attachments/assets/24f45209-269a-4dc6-acb0-0c448fb033e5" />
+    •   Event table: Login attempts with timestamps and status
+	<img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/6cefecc1-c7e0-4d3b-af7b-3c009d80abd9" />
+  •	  Line chart: Attack frequency over time
+  <img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/987e6ed8-01cb-4c22-aa93-03a645e63ba0" />
   # Key Insights
   •	Multiple IP addresses made repeated failed login attempts
 	•	Some activity showed signs of possible brute-force attacks
